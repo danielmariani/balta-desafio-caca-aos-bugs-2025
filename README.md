@@ -31,7 +31,7 @@ O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias
 
 
 ### Minhas Recompensas
-[Incluir recompensas que você recebeu]
+* [01 - Spore](https://github.com/balta-io/balta-desafio-caca-aos-bugs-2025_1-spore)
 
 ### Meus Projetos
 [Incluir lista de projetos do desafio]
